@@ -9,3 +9,8 @@
 }
 
 a { text-decoration: none; }
+
+app-home {
+  display: flex;
+  justify-content: center;
+}
