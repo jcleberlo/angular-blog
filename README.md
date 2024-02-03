@@ -1,27 +1,38 @@
-# AngularBlog
+# 📝 Projeto - Criando uma Página de Blog com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este é um projeto desafio do curso **Formação Angular Developer** oferecido pela **[DIO - Digital Innovation One](https://www.dio.me)**. O desafio era criar uma página de blog usando o framework **Angular** e seguindo um modelo disponibilizado.
 
-## Development server
+## Sobre o Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto envolveu a criação de uma página de blog que exibe uma lista de posts, cada um com um título, uma imagem, um resumo, uma data e um autor. O projeto também incluiu uma barra lateral com um menu de navegação, uma seção de posts populares, uma seção de categorias e uma seção de tags. O projeto utilizou vários conceitos e recursos do framework **Angular**, como:
 
-## Code scaffolding
+- Componentes
+- Diretivas
+- Serviços
+- Pipes
+- Módulos
+- Roteamento
+- Data Binding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto foi concluído com sucesso, resultando em uma página de blog que é funcional e elegante. Este projeto serviu como uma excelente oportunidade para aplicar e aprofundar os conhecimentos adquiridos durante o curso, especialmente no que diz respeito ao framework **Angular**.
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-## Running unit tests
+## Funcionalidades
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O projeto possui as seguintes funcionalidades:
 
-## Running end-to-end tests
+- Página de blog com uma lista de posts
+- Cada post possui um título, uma imagem, um resumo, uma data e um autor
+- Barra superior de menu de navegação e cards para acesso aos artigos.
+- Roteamento entre as páginas de blog
+- Data binding entre os componentes e os dados dos posts
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🎁 Benefícios do Projeto
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+A realização deste projeto foi uma forma de praticar os conceitos e recursos do framework Angular que eu aprendi durante o curso da DIO. Eu pude usar componentes, diretivas, serviços, pipes, módulos, roteamento, data binding, para criar uma página de blog elegante. Essas técnicas me ajudaram a desenvolver habilidades práticas e criativas para o desenvolvimento web, pois eu tive que seguir um modelo fornecido. O projeto também foi um desafio, pois eu tive que usar o framework Angular, que é uma ferramenta poderosa e moderna para criar aplicações web. Eu acho que esse projeto foi muito útil para o meu aprendizado e para o meu portfólio.

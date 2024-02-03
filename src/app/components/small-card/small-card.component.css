@@ -5,26 +5,43 @@
 .container__small-card {
   width: 548px;
   display: flex;
-  align-items: center;
+
   padding-bottom: 32px;
 }
 
+.small-card__photo {
+  padding: 0 12px;
+}
+
 .small-card__photo > img {
-  width: 188px;
-  height: 115px;
+  width: 230px;
   padding: 0 12px;
 }
 
 .small-card__title {
-  width: 273px;
-  padding: 0 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .small-card__title a {
+  font-weight: 600;
   font-size: 20px;
-  font-weight: bold;
+  line-height: 28px;
+  color: #ffffff;
+  opacity: 0.8;
 }
 
 .container__small-card.last-item {
   border-bottom: none;
+}
+
+.small-card__title span {
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 11px;
+  color: #ffffff;
+  opacity: 0.3;
+  letter-spacing: 0.5px;
+  padding: 4px 0px 10px;
 }
